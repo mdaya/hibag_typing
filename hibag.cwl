@@ -1,6 +1,7 @@
 class: CommandLineTool
 cwlVersion: v1.0
 label: HIBAG
+doc: Workflow to call HLA alleles given PLINK binary files and a RData file containing pre-trained HIBAG models
 $namespaces:
   sbg: https://sevenbridges.com
 
