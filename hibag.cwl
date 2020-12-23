@@ -7,7 +7,7 @@ $namespaces:
 requirements:
 - class: ShellCommandRequirement
 - class: DockerRequirement
-  dockerPull: quay.io/mdaya/hibag_typing:0.1
+  dockerPull: quay.io/mdaya/hibag_typing:1.0
 
 inputs:
 - id: pre_trained_rdata_file
